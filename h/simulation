@@ -1,0 +1,56 @@
+===== HOSPITAL MANAGEMENT SYSTEM =====
+
+1. Add Patient
+2. View Patients
+3. Add Doctor
+4. View Doctors
+5. Book Appointment
+6. View Appointments
+7. Exit
+
+Enter your choice: 1
+
+Enter Patient Name: Rahul
+Enter Age: 25
+Enter Disease: Fever
+
+Patient added successfully!
+
+
+Enter your choice: 3
+
+Enter Doctor Name: Dr. Kumar
+Enter Specialization: Cardiology
+
+Doctor added successfully!
+
+
+Enter your choice: 2
+
+===== PATIENT DETAILS =====
+1 | Rahul | 25 | Fever
+
+
+Enter your choice: 4
+
+===== DOCTOR DETAILS =====
+1 | Dr. Kumar | Cardiology
+
+
+Enter your choice: 5
+
+Enter Patient Name: Rahul
+Enter Doctor Name: Dr. Kumar
+
+Appointment booked successfully!
+
+
+Enter your choice: 6
+
+===== APPOINTMENTS =====
+Patient: Rahul | Doctor: Dr. Kumar | Specialization: Cardiology
+
+
+Enter your choice: 7
+
+Thank you for using Hospital Management System!
